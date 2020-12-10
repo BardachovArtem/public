@@ -1,0 +1,11 @@
+@font-face {
+    font-family:"sofia-pro-bold";
+    src:url("https://github.com/BardachovArtem/public/blob/master/font.woff2?raw=true") format("woff2"),url("https://github.com/BardachovArtem/public/blob/master/font.woff?raw=true") format("woff");
+    font-display:auto;font-style:normal;font-weight:700;
+    }
+
+    @font-face {
+        font-family:"sofia-pro-bolder";
+        src:url("https://github.com/BardachovArtem/public/blob/master/font.woff2?raw=true") format("woff2"),url("https://github.com/BardachovArtem/public/blob/master/font.woff?raw=true") format("woff");
+        font-display:auto;font-style:normal;font-weight:900;
+        }
